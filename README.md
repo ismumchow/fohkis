@@ -1,6 +1,6 @@
 
-###Fohkis App README
-Introduction
+### Fohkis App 
+## Introduction
 Fohkis is a cutting-edge application designed for individuals seeking to optimize their focus and productivity. Built on a robust stack comprising Next.js, React, Node.js, and Express, Fohkis leverages a microservices architecture to efficiently scale up or down based on server demands. This README provides an overview of Fohkis, its features, and guidelines for setup and usage.
 
 Features
