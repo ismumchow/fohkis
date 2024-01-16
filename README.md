@@ -1,9 +1,9 @@
 
-### Fohkis App 
+# Fohkis App 
 ## Introduction
 Fohkis is a cutting-edge application designed for individuals seeking to optimize their focus and productivity. Built on a robust stack comprising Next.js, React, Node.js, and Express, Fohkis leverages a microservices architecture to efficiently scale up or down based on server demands. This README provides an overview of Fohkis, its features, and guidelines for setup and usage.
 
-Features
+## Features
 Focus Session Tracking: Fohkis enables users to track intense focus sessions, capturing the duration and frequency of these sessions throughout the day.
 Topic Tagging: Users can tag each focus session with a specific topic, allowing for organized tracking and analysis of where attention is being dedicated.
 Aggregate Time Calculation: The app calculates and displays the total amount of time spent in focused sessions, offering insights into productivity patterns.
@@ -34,14 +34,15 @@ Start the Server:
 bash
 Copy code
 npm start
-Usage
+
+## Usage
 Starting a Focus Session: Log in to the app and start a new focus session, tagging it with a relevant topic.
 Viewing Statistics: Access the dashboard to view aggregate data on focus sessions, including total time and topic distribution.
 Adjusting Settings: Customize your focus session preferences in the settings panel.
 Contributing
 We welcome contributions to Fohkis! Please read our contributing guidelines before submitting pull requests.
 
-Support
+##Support
 For support, please open an issue on the GitHub repository or contact our support team at support@fohkis.com.
 
 License
